@@ -4,6 +4,7 @@
 # Author     : tu
 # Contact    : lihuimintu@gmail.com
 
+
 hosts=(10.0.0.122 10.0.0.123)
 username="user"
 password="xxxx"
